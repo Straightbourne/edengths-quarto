@@ -1,6 +1,6 @@
 # edengths-quarto - Quarto website and PhD thesis template
 
-This repository **no longer maintained** as of 10 February 2025. My own thesis has moved to a different, less restrictive $\LaTeX$ document class. I will make a [small working example](https://github.com/NixImagery/SWE-quarto-thesis) of the project today. Edinburgh PGRs might consider using that as a starting point for their research project.
+This repository **no longer maintained** as of 10 February 2025, when I moved to a different, less restrictive $\LaTeX$ document class. You can find a template project at <https://github.com/Straightbourne/SWE-quarto-thesis>. Edinburgh PGRs might consider using that as a starting point for their research project.
 
 
 ## ABOUT
